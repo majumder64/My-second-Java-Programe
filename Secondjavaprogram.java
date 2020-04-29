@@ -3,3 +3,6 @@ public class Secondjavaprogram {
         System.out.println("My name is Aninda!");
     }
 }
+
+
+My nick name is babu
